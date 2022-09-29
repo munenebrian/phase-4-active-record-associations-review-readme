@@ -37,3 +37,4 @@ group :test do
 end
 
 gem "faker", "~> 2.17"
+gem "ruby-lsp", "~> 0.3.2", :group => :development
